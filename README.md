@@ -40,6 +40,8 @@ Docker (Containerized Execution)
 Extent Reports / Allure Reports (Optional Integration)
 
 Git & GitHub
+
+
 Sampath
 Automation Engineer | Selenium | Java | DevOps
 GitHub: https://github.com/Sampath435
